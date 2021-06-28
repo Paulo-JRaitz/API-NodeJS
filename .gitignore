@@ -1,0 +1,6 @@
+.env
+node_modules
+main.handlebars
+pjr.svg
+auth.json
+mail.json
